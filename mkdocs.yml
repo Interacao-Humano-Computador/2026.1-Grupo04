@@ -1,0 +1,6 @@
+site_name: IHC - Grupo 04
+theme:
+  name: material
+
+nav:
+  - Home: index.md

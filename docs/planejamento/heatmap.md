@@ -8,13 +8,13 @@ A visualização facilita a tomada de decisão sobre **agendamento de reuniões*
 
 ## Heatmap de Disponibilidade
 
-**Link quebrado**
+![Heatmap de disponibilidade da equipe](../assets/images/heatmap_grupo_04.png)
+**Figura 1 – Disponibilidade semanal da equipe coletada através da ferramenta When2Meet.**
 
-![Heatmap de disponibilidade da equipe](assets/...)
-
+Fonte: [Elaborado pelos autores.](#equipe) LINK QUEBRADO
 ## Descrição dos Dados
 
-O heatmap foi construído a partir das informações de disponibilidade fornecidas pelos membros da equipe utilizando a ferramenta **When2Meet**. **link para seção ferramentas ou site** 
+O heatmap foi construído a partir das informações de disponibilidade fornecidas pelos membros da equipe utilizando a ferramenta [When2Meet](https://www.when2meet.com/)[¹](#ref1).
 
 Cada integrante acessou a plataforma e indicou os horários em que possui disponibilidade durante a semana. A ferramenta consolida automaticamente essas informações em um **mapa visual de disponibilidade**, onde cada célula representa um intervalo de tempo específico.
 
@@ -40,13 +40,19 @@ Dessa forma, os períodos mais escuros indicam **os horários mais adequados par
 
 ## Metodologia de Construção
 
-1. Foi criado um evento de disponibilidade na plataforma **When2Meet**. **link para seção ferramentas ou site** 
+1. Foi criado um evento de disponibilidade na plataforma **When2Meet**[¹](#ref1).
 2. Os membros da equipe acessaram o link e marcaram seus horários disponíveis.
 3. A plataforma gerou automaticamente o **heatmap de sobreposição de horários**.
 4. O resultado visual foi capturado/exportado e incluído na documentação do projeto.
+
+## Referências
+
+<a id="ref1"></a>
+[1] WHEN2MEET. *When2Meet – Schedule a meeting*. Disponível em: <https://www.when2meet.com/>. Acesso em: 10 abr. 2026.
 
 ## Histórico de Versões
 
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de revisão |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1.0 | Criação do documento Heatmap | Pedro Lucas | 10/04/2026 | - | - |
+| 1.0 | Criação do documento Heatmap | [Pedro Lucas](https://github.com/pwdrinho) | 10/04/2026 | [Gabriel Diniz](https://github.com/GabrielDiniz12) | 10/04/2026 |
+| 1.1 | Adição imagem do heatmap e referências | [Pedro Lucas](https://github.com/pwdrinho) | 10/04/2026 | [Gabriel Diniz](https://github.com/GabrielDiniz12) | 10/04/2026 |

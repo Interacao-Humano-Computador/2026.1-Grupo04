@@ -5,5 +5,5 @@ theme:
 nav:
   - Home: index.md
 
-  - Entrega1:
-      - Heatmap: Entrega1/heatmap.md
+  - Planejamento:
+      - "Mapa de Energia": planejamento/heatmap.md

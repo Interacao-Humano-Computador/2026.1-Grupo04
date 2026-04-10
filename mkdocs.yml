@@ -5,4 +5,5 @@ theme:
 nav:
   - Home: index.md
 
-  - Heatmap: index.md
+  - Entrega1:
+      - Heatmap: Entrega1/heatmap.md

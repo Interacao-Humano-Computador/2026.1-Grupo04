@@ -45,9 +45,9 @@ Define as metas de usabilidade com base no perfil dos usuários, na análise de 
 
 Divide a concepção da solução em três níveis iterativos de detalhamento:
 
-- **(Nível 1)** reengenharia do trabalho e prototipação do modelo conceitual em baixa fidelidade;
-- **(Nível 2)** definição de padrões de design de tela com protótipos de média fidelidade;
-- **(Nível 3)** projeto detalhado da interface em alta fidelidade para implementação. Em todos os níveis, exige-se a avaliação iterativa.
+- **Nível 1:** Reengenharia do trabalho e prototipação do modelo conceitual em baixa fidelidade;
+- **Nível 2:** Definição de padrões de design de tela com protótipos de média fidelidade;
+- **Nível 3:** Projeto detalhado da interface em alta fidelidade para implementação. Em todos os níveis, exige-se a avaliação iterativa.
 
 #### Instalação
 

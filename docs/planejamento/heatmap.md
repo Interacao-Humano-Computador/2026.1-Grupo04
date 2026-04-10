@@ -11,7 +11,8 @@ A visualização facilita a tomada de decisão sobre **agendamento de reuniões*
 ![Heatmap de disponibilidade da equipe](../assets/images/heatmap_grupo_04.png)
 **Figura 1 – Disponibilidade semanal da equipe coletada através da ferramenta When2Meet.**
 
-Fonte: [Elaborado pelos autores.](#equipe) LINK QUEBRADO
+Fonte: Elaborado pelos autores.
+
 ## Descrição dos Dados
 
 O heatmap foi construído a partir das informações de disponibilidade fornecidas pelos membros da equipe utilizando a ferramenta [When2Meet](https://www.when2meet.com/)[¹](#ref1).

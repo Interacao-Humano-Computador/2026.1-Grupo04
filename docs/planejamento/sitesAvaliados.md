@@ -61,7 +61,7 @@ Abaixo, detalhamos brevemente cada um dos sites avaliados, o responsável pela a
 
 * 📄 <a href="../../assets/pdfs/avaliacao_codhab.pdf" target="_blank">Abrir Avaliação da Codhab em PDF</a>
 
-## Referências Bibliograficas
+## Referências Bibliográficas
 
 > <a id="ref1"></a> [1] INSTITUTO DE DEFESA DO CONSUMIDOR DO DISTRITO FEDERAL (PROCON-DF). Página inicial. Disponível em: <https://www.procon.df.gov.br/>. Acesso em: 10 abr. 2026.
 

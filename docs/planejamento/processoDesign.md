@@ -34,9 +34,13 @@ Proposto por Jakob Nielsen (1994), define um ciclo de vida baseado em dez ativid
 
 Proposto por Deborah Mayhew (1999), este ciclo de vida possui uma visão holística e estruturada, organizando as diversas atividades de IHC em três fases principais para orientar de forma rigorosa a concepção de uma boa solução interativa:
 
-![Figura 1 - Atividades do Modelo de Ciclo de Vida de Mayhew](assets/images/ciclo-mayhew.png)
-*Fonte: BARBOSA e SILVA, 2011, p.106.*
+<div align="center">
+  <p class="table-source"><strong>Figura 1 - Atividades do Modelo de Ciclo de Vida de Mayhew</strong></p>
+  
+  <img src="../../assets/images/ciclo-mayhew.png" alt="Descrição">
 
+  <p class="table-source">Fonte: <a href="#ref1">BARBOSA e SILVA, 2011, p.106.¹</a> (2011).</p>
+</div>
 #### Análise de requisitos
 
 Define as metas de usabilidade com base no perfil dos usuários, na análise de tarefas, nas possibilidades e limitações da plataforma, e em princípios gerais de projeto. Essas metas são formalizadas através de guias de estilo.
@@ -70,12 +74,13 @@ Mayhew foi a metodologia escolhida para guiar a análise e o aprimoramento do si
 Além disso, por se tratar de uma plataforma que já está em produção, o modelo de Mayhew permite uma aplicação prática estratégica. O processo de avaliação pode ser iniciado a partir da perspectiva da fase de **Instalação**, que consiste em analisar o feedback e as opiniões dos usuários diante da experiência de uso do sistema atual. A partir do diagnóstico desses dados reais para identificar pontos de melhoria, o processo retrocede para a fase de **Análise de Requisitos**. Essa dinâmica viabiliza a estruturação de mudanças mais assertivas que passarão por um ciclo iterativo de refinamento e validação ao longo dos níveis de prototipação, assegurando que o aprimoramento das interfaces atenda de fato às necessidades dos doadores.
 
 ## 4. Referências Bibliográficas
->  BARBOSA, Simone Diniz Junqueira et al. *Interação Humano-Computador e Experiência do Usuário*. 1. ed. Rio de Janeiro: Autopublicação, 2021.
+<a id="ref1"></a>
+>  [1] BARBOSA, Simone Diniz Junqueira et al. *Interação Humano-Computador e Experiência do Usuário*. 1. ed. Rio de Janeiro: Autopublicação, 2021.
 
 ---
 
 ## Histórico de versões
 
-| Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de revisão |
-|--------|-----------|-----------|------|-------------|-----------------|
-| 1.0 | Criação da página de design e inserção do conteúdo | Júlia Gabriella | 10/04/2026 |  |  |
+| Versão | Descrição | Data | Autor(es) | Data de revisão | Revisor(es) |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 1.0 | Criação da página de design e inserção do conteúdo | 10/04/2026 | [Julia Gabriella](https://github.com/juliagabriellafs) e [Lucas Oliveira](https://github.com/dev-LucasDpaula)| 10/04/2026 | [Pedro Ian](https://github.com/pedroiaan)|

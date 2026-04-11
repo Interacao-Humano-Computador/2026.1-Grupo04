@@ -17,9 +17,10 @@ O portal do Hemocentro é a principal interface digital entre a Fundação Hemoc
 
 ### Por que ele é importante?
 A relevância deste site é crítica, pois ele lida diretamente com a manutenção da rede de saúde pública. No contexto de **IHC**, sua importância reside em:
-* **Eficiência do Agendamento:** Um design intuitivo garante que o doador consiga marcar seu horário rapidamente, evitando desistências por processos confusos.
-* **Comunicação de Urgência:** Informar de forma clara quando os estoques estão baixos pode salvar vidas ao mobilizar doadores de grupos sanguíneos específicos.
-* **Acessibilidade:** Como é um serviço público vital, o site deve ser acessível a todos os perfis de usuários, independentemente de suas limitações técnicas ou físicas.
+
+- **Eficiência do Agendamento:** Um design intuitivo garante que o doador consiga marcar seu horário rapidamente, evitando desistências por processos confusos.
+- **Comunicação de Urgência:** Informar de forma clara quando os estoques estão baixos pode salvar vidas ao mobilizar doadores de grupos sanguíneos específicos.
+- **Acessibilidade:** Como é um serviço público vital, o site deve ser acessível a todos os perfis de usuários, independentemente de suas limitações técnicas ou físicas.
 
 ## Integrantes
 
@@ -31,8 +32,9 @@ A relevância deste site é crítica, pois ele lida diretamente com a manutenç�
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Breno Teixeira](https://github.com/BrenoLTeixeira) | [Gabriel Diniz](https://github.com/GabrielDiniz12) | [Julia Gabriella](https://github.com/juliagabriellafs) | [Lucas Oliveira](https://github.com/dev-LucasDpaula) | [Pedro Américo](https://github.com/dev-americo) | [Pedro Ian](https://github.com/pedroiaan) | [Pedro Lucas](https://github.com/Pwdrinho) |
 
+
 ## Histórico de Versões
 
-| Versão | Data | Descrição | Autor(es) | Revisor(es) |
-|--------|------|-----------|-----------|-------------|
-| 1.0 | 10/04/2026 | Início do projeto de IHC - Site Hemocentro | [Breno Teixeira](https://github.com/BrenoLTeixeira) | [Pedro Américo](https://github.com/dev-americo) |
+| Versão | Descrição | Data | Autor(es) | Data de revisão | Revisor(es) |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 1.0 | Início do projeto de IHC - Site Hemocentro | 10/04/2026 | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 10/04/2026 | [Lucas Oliveira](https://github.com/dev-LucasDpaula) |

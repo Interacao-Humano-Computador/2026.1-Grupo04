@@ -62,8 +62,10 @@ Para viabilizar a execução do projeto de análise do portal Hemocentro sob a �
 > <a id="FRM16" href="#anchor_16">16.</a> GOOGLE. Gemini. [Mountain View, CA]: Google, c2025. Disponível em: <a href="https://gemini.google.com/">https://gemini.google.com/</a>. Acesso em: 10 abril 2026.
 >
 
+---
+
 ## Histórico de Versões 
 
-| Versão |    Data    |                        Descrição                         |                       Autor(es)                       |                        Revisor(es)                         |
-| :----: | :--------: | :------------------------------------------------------: | :---------------------------------------------------: | :-------------------------------------------------------: |
-| `1.0`  | 10/04/2026 |              Criação da página de ferramentas              | [Breno Teixeira](https://github.com/Brenolteixeira)  | [Pedro Américo](https://github.com/dev-americo)  |
+| Versão | Descrição | Data | Autor(es) | Data de revisão | Revisor(es) |
+| :---: | :--- | :---: | :---: | :---: | :---: |
+| 1.0 | Criação da página de ferramentas | 10/04/2026 | [Breno Teixeira](https://github.com/Brenolteixeira)| 10/04/2026 | [Pedro Américo](https://github.com/dev-americo)|

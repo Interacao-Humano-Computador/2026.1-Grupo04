@@ -46,14 +46,16 @@ Dessa forma, os períodos mais escuros indicam **os horários mais adequados par
 3. A plataforma gerou automaticamente o **heatmap de sobreposição de horários**.
 4. O resultado visual foi capturado/exportado e incluído na documentação do projeto.
 
-## Referências
+## Referências Bibliográficas
 
 <a id="ref1"></a>
-[1] WHEN2MEET. *When2Meet – Schedule a meeting*. Disponível em: <https://www.when2meet.com/>. Acesso em: 10 abr. 2026.
+> [1] WHEN2MEET. *When2Meet – Schedule a meeting*. Disponível em: <https://www.when2meet.com/>. Acesso em: 10 abr. 2026.
+
+---
 
 ## Histórico de Versões
 
-| Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de revisão |
+| Versão | Descrição | Data | Autor(es) | Data de revisão | Revisor(es) |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1.0 | Criação do documento Heatmap | [Pedro Lucas](https://github.com/pwdrinho) | 10/04/2026 | [Gabriel Diniz](https://github.com/GabrielDiniz12) | 10/04/2026 |
-| 1.1 | Adição imagem do heatmap e referências | [Pedro Lucas](https://github.com/pwdrinho) | 10/04/2026 | [Gabriel Diniz](https://github.com/GabrielDiniz12) | 10/04/2026 |
+| 1.0 | Criação do documento Heatmap | 10/04/2026 | [Pedro Lucas](https://github.com/pwdrinho)| 10/04/2026 | [Gabriel Diniz](https://github.com/GabrielDiniz12)|
+| 1.1 | Adição imagem do heatmap e referências | 10/04/2026 | [Pedro Lucas](https://github.com/pwdrinho)| 10/04/2026 | [Gabriel Diniz](https://github.com/GabrielDiniz12)|

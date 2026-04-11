@@ -61,27 +61,26 @@ Abaixo, detalhamos brevemente cada um dos sites avaliados, o responsável pela a
 
 * 📄 <a href="../../assets/pdfs/avaliacao_codhab.pdf" target="_blank">Abrir Avaliação da Codhab em PDF</a>
 
-## Referências
+## Referências Bibliograficas
 
-<a id="ref1"></a> [1] INSTITUTO DE DEFESA DO CONSUMIDOR DO DISTRITO FEDERAL (PROCON-DF). Página inicial. Disponível em: <https://www.procon.df.gov.br/>. Acesso em: 10 abr. 2026.
+> <a id="ref1"></a> [1] INSTITUTO DE DEFESA DO CONSUMIDOR DO DISTRITO FEDERAL (PROCON-DF). Página inicial. Disponível em: <https://www.procon.df.gov.br/>. Acesso em: 10 abr. 2026.
 
-<a id="ref2"></a> [2] RECEITA FEDERAL DO BRASIL. Portal da Receita Federal. Disponível em: <https://www.gov.br/receitafederal/>. Acesso em: 10 abr. 2026.
+> <a id="ref2"></a> [2] RECEITA FEDERAL DO BRASIL. Portal da Receita Federal. Disponível em: <https://www.gov.br/receitafederal/>. Acesso em: 10 abr. 2026.
 
-<a id="ref3"></a> [3] COMPANHIA DE SANEAMENTO AMBIENTAL DO DISTRITO FEDERAL (CAESB). Página inicial. Disponível em: <https://www.caesb.df.gov.br/>. Acesso em: 10 abr. 2026.
+> <a id="ref3"></a> [3] COMPANHIA DE SANEAMENTO AMBIENTAL DO DISTRITO FEDERAL (CAESB). Página inicial. Disponível em: <https://www.caesb.df.gov.br/>. Acesso em: 10 abr. 2026.
 
-<a id="ref4"></a> [4] NA HORA. Portal de atendimento ao cidadão do Distrito Federal. Disponível em: <https://www.nahora.df.gov.br/>. Acesso em: 10 abr. 2026.
+> <a id="ref4"></a> [4] NA HORA. Portal de atendimento ao cidadão do Distrito Federal. Disponível em: <https://www.nahora.df.gov.br/>. Acesso em: 10 abr. 2026.
 
-<a id="ref5"></a> [5] FUNDAÇÃO HEMOCENTRO DE BRASÍLIA. Página institucional. Disponível em: <https://www.hemocentro.df.gov.br/>. Acesso em: 10 abr. 2026.
+> <a id="ref5"></a> [5] FUNDAÇÃO HEMOCENTRO DE BRASÍLIA. Página institucional. Disponível em: <https://www.hemocentro.df.gov.br/>. Acesso em: 10 abr. 2026.
 
-<a id="ref6"></a> [6] INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS). Meu INSS. Disponível em: <https://meu.inss.gov.br/>. Acesso em: 10 abr. 2026.
+> <a id="ref6"></a> [6] INSTITUTO NACIONAL DO SEGURO SOCIAL (INSS). Meu INSS. Disponível em: <https://meu.inss.gov.br/>. Acesso em: 10 abr. 2026.
 
-<a id="ref7"></a> [7] COMPANHIA DE DESENVOLVIMENTO HABITACIONAL DO DISTRITO FEDERAL (CODHAB). Página institucional. Disponível em: <https://www.codhab.df.gov.br/>. Acesso em: 10 abr. 2026.
+> <a id="ref7"></a> [7] COMPANHIA DE DESENVOLVIMENTO HABITACIONAL DO DISTRITO FEDERAL (CODHAB). Página institucional. Disponível em: <https://www.codhab.df.gov.br/>. Acesso em: 10 abr. 2026.
 
 ## Histórico de Versões
 
 | Versão | Descrição | Data | Autor(es) | Data de revisão | Revisor(es) |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-
 | 1.0 | Criação do documento de sites avaliados | 09/04/2026 | [Pedro Ian](https://github.com/pedroiaan)| 10/04/2026 | [Pedro Lucas](https://github.com/Pwdrinho)|
 | 1.1 | Revisão após inspeção da entrega 1 | 11/04/2026 | [Pedro Ian](https://github.com/pedroiaan)| 11/04/2026 | [Pedro Lucas](https://github.com/Pwdrinho)|
 | 1.2 | Adiciona referências dos sites e remoção da seção site escolhido | 11/04/2026 | [Pedro Ian](https://github.com/pedroiaan)| 11/04/2026 | [Pedro Lucas](https://github.com/Pwdrinho)|

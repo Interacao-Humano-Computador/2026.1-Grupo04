@@ -95,7 +95,7 @@ Nenhuma
 
 ### 4. Assuntos Tratados
 
-<font size="3"><p class="table-source"><b>Tabela 5</b> - Assuntos tradados</p></font>
+<font size="3"><p class="table-source"><b>Tabela 5</b> - Assuntos tratados</p></font>
 
 <div align="center" markdown="1">
 

@@ -16,17 +16,21 @@
 | **Projeto:** | Sigla do Projeto - Nome do Projeto |
 | **Redator:** | Gabriel Diniz |
 
+### Horários
+| Hora de Início | Hora de Término |
+| :--- | :--- |
+| 23:00 | 23:30 |
 
 ### 1.1 Convocados e Presentes
 | Convocados | Presença | 
 | :--- | :---: | 
-| 1. [Breno Lourenço] | Presente |  
-| 2. [Gabriel DIniz] | Presente | 
-| 3. [Júlia Gabriela] | Presente | 
-| 4. [Lucas Oliveira] | Presente |
-| 5. [Pedro Ian ] | Presente |
-| 6. [Pedro Henrique] | Presente |
-| 7. [Pedro Lucas] | Presente |
+| 1. Breno Lourenço | Presente |  
+| 2. Gabriel DIniz | Presente | 
+| 3. Júlia Gabriela | Presente | 
+| 4. Lucas Oliveira | Presente |
+| 5. Pedro Ian | Presente |
+| 6. Pedro Henrique | Presente |
+| 7. Pedro Lucas | Presente |
 
 ---
 
@@ -75,7 +79,7 @@ Nenhuma
 
 | N° | Compromisso | Responsável | Data |
 | :---: | :--- | :--- | :---: |
-| | | | |
+| 1 | Inspeção Grupo + 1 | TODOS | 13/04/2026 |
 
 ---
 
@@ -83,7 +87,7 @@ Nenhuma
 
 * BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação humano-computador**. Rio de Janeiro: Elsevier, 2010.
 
-* * BRASIL. Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC). **Modelo de Ata de Reunião**. Disponibilizado pelo professor André Barros na plataforma Aprender3. Brasília: Universidade de Brasília, 2026. Disponível em: <https://aprender3.unb.br/pluginfile.php/3379275/mod_resource/content/3/SiglaProjeto_AtaReuniao_AAAAMMDD_XX.pdf>. Acesso em: 11 abr. 2026.
+* BRASIL. Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC). **Modelo de Ata de Reunião**. Disponibilizado pelo professor André Barros na plataforma Aprender3. Brasília: Universidade de Brasília, 2026. Disponível em: <https://aprender3.unb.br/pluginfile.php/3379275/mod_resource/content/3/SiglaProjeto_AtaReuniao_AAAAMMDD_XX.pdf>. Acesso em: 11 abr. 2026.
 
 * GRUPO 04. **2026.1-Grupo04**: repositório do projeto de IHC. GitHub, 2026. Disponível em: <https://github.com/Interacao-Humano-Computador/2026.1-Grupo04>. Acesso em: 11 abr. 2026.
 
@@ -94,7 +98,8 @@ Nenhuma
 
 | Versão | Data | Descrição | Autor | Revisor | data da revisão
 | :---: | :---: | :--- | :--- | :--- | :--- |
-| 1.0 | 10/04/2026 | Criação do documento e adaptação para o padrão UnB. | Gabriel Diniz | Pedro Henrique | 11/04/2026 |
+| 1.0 | 10/04/2026 | Ata da reunião dia 10/04/2026. | Gabriel Diniz | Pedro Henrique | 11/04/2026 |
+| 1.1 | 11/04/2026 | Atualização de horários e referências da ata. | Gabriel Diniz | Pedro Henrique | 11/04/2026 |
 
 ---
 **Arquivo:** Hemocentro_AtaReuniao_20260410_01.md

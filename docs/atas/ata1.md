@@ -99,7 +99,7 @@ Nenhuma
 | Versão | Data | Descrição | Autor | Revisor | data da revisão
 | :---: | :---: | :--- | :--- | :--- | :--- |
 | 1.0 | 10/04/2026 | Ata da reunião dia 10/04/2026. | Gabriel Diniz | Pedro Henrique | 11/04/2026 |
-| 1.1 | 11/04/2026 | Atualização de horários e referências da ata. | Gabriel Diniz | Pedro Henrique | 11/04/2026 |
+| 1.1 | 11/04/2026 | Atualização de horários da ata. | Gabriel Diniz | Pedro Henrique | 11/04/2026 |
 
 ---
 **Arquivo:** Hemocentro_AtaReuniao_20260410_01.md

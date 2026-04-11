@@ -79,6 +79,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#heatmap-de-disponibilidade-da-equipe" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -690,6 +695,26 @@
       <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
       
       
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Mapa de Energia
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
       
       <a href="./" class="md-nav__link md-nav__link--active">
         
@@ -707,6 +732,102 @@
   
 
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#visao-geral" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Visão Geral
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#heatmap-de-disponibilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Heatmap de Disponibilidade
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#descricao-dos-dados" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Descrição dos Dados
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#interpretacao-do-heatmap" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Interpretação do Heatmap
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia-de-construcao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Metodologia de Construção
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Referências
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Histórico de Versões
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -993,6 +1114,93 @@
   
   
   
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#visao-geral" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Visão Geral
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#heatmap-de-disponibilidade" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Heatmap de Disponibilidade
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#descricao-dos-dados" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Descrição dos Dados
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#interpretacao-do-heatmap" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Interpretação do Heatmap
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#metodologia-de-construcao" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Metodologia de Construção
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#referencias" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Referências
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#historico-de-versoes" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Histórico de Versões
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
   
 </nav>
                   </div>
@@ -1012,9 +1220,90 @@
   
 
 
-  <h1>Mapa de Energia</h1>
-
-
+<h1 id="heatmap-de-disponibilidade-da-equipe">Heatmap de Disponibilidade da Equipe</h1>
+<h2 id="visao-geral">Visão Geral</h2>
+<p>Este heatmap apresenta a <strong>disponibilidade de horários dos membros da equipe ao longo da semana</strong>, permitindo identificar os períodos com maior coincidência de horários livres para reuniões, desenvolvimento colaborativo e atividades do projeto.</p>
+<p>A visualização facilita a tomada de decisão sobre <strong>agendamento de reuniões</strong>, <strong>sprints colaborativas</strong> e <strong>momentos de revisão de código</strong>.</p>
+<h2 id="heatmap-de-disponibilidade">Heatmap de Disponibilidade</h2>
+<p><img alt="Heatmap de disponibilidade da equipe" src="../../assets/images/heatmap_grupo_04.png" />
+<strong>Figura 1 – Disponibilidade semanal da equipe coletada através da ferramenta When2Meet.</strong></p>
+<p>Fonte: Elaborado pelos autores.</p>
+<h2 id="descricao-dos-dados">Descrição dos Dados</h2>
+<p>O heatmap foi construído a partir das informações de disponibilidade fornecidas pelos membros da equipe utilizando a ferramenta <a href="https://www.when2meet.com/">When2Meet</a><a href="#ref1">¹</a>.</p>
+<p>Cada integrante acessou a plataforma e indicou os horários em que possui disponibilidade durante a semana. A ferramenta consolida automaticamente essas informações em um <strong>mapa visual de disponibilidade</strong>, onde cada célula representa um intervalo de tempo específico.</p>
+<p>Os dados apresentados no heatmap consideram:</p>
+<ul>
+<li><strong>Colunas:</strong> dias da semana</li>
+<li><strong>Linhas:</strong> intervalos de horário ao longo do dia</li>
+<li><strong>Cores:</strong> quantidade de membros disponíveis em cada horário</li>
+</ul>
+<p>Quanto <strong>maior a intensidade da cor</strong>, maior é o número de integrantes disponíveis naquele período.</p>
+<h2 id="interpretacao-do-heatmap">Interpretação do Heatmap</h2>
+<p>A escala de cores representa o número de membros disponíveis:</p>
+<table>
+<thead>
+<tr>
+<th>Intensidade</th>
+<th>Significado</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Cor clara</td>
+<td>poucos membros disponíveis</td>
+</tr>
+<tr>
+<td>Cor intermediária</td>
+<td>disponibilidade moderada</td>
+</tr>
+<tr>
+<td>Cor escura</td>
+<td>maior número de membros disponíveis</td>
+</tr>
+</tbody>
+</table>
+<p>Dessa forma, os períodos mais escuros indicam <strong>os horários mais adequados para atividades coletivas</strong>.</p>
+<h2 id="metodologia-de-construcao">Metodologia de Construção</h2>
+<ol>
+<li>Foi criado um evento de disponibilidade na plataforma <strong>When2Meet</strong><a href="#ref1">¹</a>.</li>
+<li>Os membros da equipe acessaram o link e marcaram seus horários disponíveis.</li>
+<li>A plataforma gerou automaticamente o <strong>heatmap de sobreposição de horários</strong>.</li>
+<li>O resultado visual foi capturado/exportado e incluído na documentação do projeto.</li>
+</ol>
+<h2 id="referencias">Referências</h2>
+<p><a id="ref1"></a>
+[1] WHEN2MEET. <em>When2Meet – Schedule a meeting</em>. Disponível em: <a href="https://www.when2meet.com/">https://www.when2meet.com/</a>. Acesso em: 10 abr. 2026.</p>
+<h2 id="historico-de-versoes">Histórico de Versões</h2>
+<table>
+<thead>
+<tr>
+<th style="text-align: center;">Versão</th>
+<th style="text-align: left;">Descrição</th>
+<th style="text-align: center;">Autor(es)</th>
+<th style="text-align: center;">Data</th>
+<th style="text-align: center;">Revisor(es)</th>
+<th style="text-align: center;">Data de revisão</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1.0</td>
+<td style="text-align: left;">Criação do documento Heatmap</td>
+<td style="text-align: center;"><a href="https://github.com/pwdrinho">Pedro Lucas</a></td>
+<td style="text-align: center;">10/04/2026</td>
+<td style="text-align: center;"><a href="https://github.com/GabrielDiniz12">Gabriel Diniz</a></td>
+<td style="text-align: center;">10/04/2026</td>
+</tr>
+<tr>
+<td style="text-align: center;">1.1</td>
+<td style="text-align: left;">Adição imagem do heatmap e referências</td>
+<td style="text-align: center;"><a href="https://github.com/pwdrinho">Pedro Lucas</a></td>
+<td style="text-align: center;">10/04/2026</td>
+<td style="text-align: center;"><a href="https://github.com/GabrielDiniz12">Gabriel Diniz</a></td>
+<td style="text-align: center;">10/04/2026</td>
+</tr>
+</tbody>
+</table>
 
 
 

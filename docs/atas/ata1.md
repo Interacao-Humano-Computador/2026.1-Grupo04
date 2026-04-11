@@ -83,7 +83,7 @@ Nenhuma
 
 * BARBOSA, Simone Diniz Junqueira; SILVA, Bruno Santana da. **Interação humano-computador**. Rio de Janeiro: Elsevier, 2010.
 
-* BRASIL. Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC). **Modelo de Ata de Reunião**. Brasília: MCTIC, 2020. Disponível em: <https://www.gov.br/mcti/pt-br/acesso-a-informacao/comite-de-governanca-digital/modelos-de-documentos/ata-de-reuniao.docx>. Acesso em: 11 abr. 2026.
+* * BRASIL. Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC). **Modelo de Ata de Reunião**. Disponibilizado pelo professor André Barros na plataforma Aprender3. Brasília: Universidade de Brasília, 2026. Disponível em: <https://aprender3.unb.br/pluginfile.php/3379275/mod_resource/content/3/SiglaProjeto_AtaReuniao_AAAAMMDD_XX.pdf>. Acesso em: 11 abr. 2026.
 
 * GRUPO 04. **2026.1-Grupo04**: repositório do projeto de IHC. GitHub, 2026. Disponível em: <https://github.com/Interacao-Humano-Computador/2026.1-Grupo04>. Acesso em: 11 abr. 2026.
 

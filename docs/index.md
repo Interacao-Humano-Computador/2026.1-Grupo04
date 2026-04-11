@@ -10,7 +10,7 @@
 </div>
 
 ## Sobre o Projeto  
-Esta página tem como finalidade analisar o portal do **Hemocentro**, escolhido pelo **Grupo 04** para fins de estudo na disciplina de **Interação Humano-Computador (IHC)** da **FCTE-UnB** durante o 1º semestre de 2026. 
+Esta página tem como finalidade analisar o portal do [Hemocentro](https://www.hemocentro.df.gov.br/), escolhido pelo **Grupo 04** para fins de estudo na disciplina de **Interação Humano-Computador (IHC)** da **FCTE-UnB** durante o 1º semestre de 2026. 
 
 ### O que é o site do Hemocentro?
 O portal do Hemocentro é a principal interface digital entre a Fundação Hemocentro de Brasília e a população. Ele funciona como uma plataforma de serviços onde o cidadão pode realizar o agendamento de doações de sangue e medula óssea, verificar a situação atual dos estoques de sangue (quais tipos sanguíneos estão em falta) e obter orientações sobre requisitos e impedimentos para doação.
@@ -32,9 +32,25 @@ A relevância deste site é crítica, pois ele lida diretamente com a manutenç�
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 | [Breno Teixeira](https://github.com/BrenoLTeixeira) | [Gabriel Diniz](https://github.com/GabrielDiniz12) | [Julia Gabriella](https://github.com/juliagabriellafs) | [Lucas Oliveira](https://github.com/dev-LucasDpaula) | [Pedro Américo](https://github.com/dev-americo) | [Pedro Ian](https://github.com/pedroiaan) | [Pedro Lucas](https://github.com/Pwdrinho) |
 
+---
+## Agradecimentos
+
+Declaramos agradecimento pelo uso das tecnologias de Inteligência Artificial (IA) Generativa durante a construção deste projeto. Especificamente, utilizamos a ferramenta [ChatGPT](https://chatgpt.com/) para nos auxiliar exclusivamente na edição e revisão textual do conteúdo dos artefatos.
+
+Gostaríamos de ressaltar que, em conformidade com as diretrizes de conduta da área, a utilização dessa ferramenta serviu apenas como apoio à escrita, e o seu uso não exime os autores da total responsabilidade sobre a autoria, veracidade e originalidade de todo o conteúdo aqui apresentado.
+
+---
+
+## Referências Bibliográficas
+> DISTRITO FEDERAL. Fundação Hemocentro de Brasília. Fundação Hemocentro de Brasília. Brasília, DF: FHB, . Disponível em: <https://fhb.df.gov.br/>. Acesso em: 8 abr. 2026.
+
+> OPENAI. ChatGPT. Versão [inserir a versão, ex: 4 ou 3.5]. São Francisco, Califórnia, 2026. Inteligência Artificial. Disponível em: https://chatgpt.com/. Acesso em: 10 abr. 2026.
+
+---
 
 ## Histórico de Versões
 
 | Versão | Descrição | Data | Autor(es) | Data de revisão | Revisor(es) |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1.0 | Início do projeto de IHC - Site Hemocentro | 10/04/2026 | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 10/04/2026 | [Lucas Oliveira](https://github.com/dev-LucasDpaula) |
+| 1.1 | Revisão após inspeção da entrega 1 | 11/04/2026 | [Breno Teixeira](https://github.com/BrenoLTeixeira) | 11/04/2026 | [Lucas Oliveira](https://github.com/dev-LucasDpaula) |

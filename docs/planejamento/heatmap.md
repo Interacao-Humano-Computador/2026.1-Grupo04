@@ -1,6 +1,6 @@
 # Heatmap de Disponibilidade da Equipe
 
-## Visão Geral
+## Introdução
 
 Este heatmap apresenta a **disponibilidade de horários dos membros da equipe ao longo da semana**, permitindo identificar os períodos com maior coincidência de horários livres para reuniões, desenvolvimento colaborativo e atividades do projeto.
 
@@ -8,7 +8,7 @@ A visualização facilita a tomada de decisão sobre **agendamento de reuniões*
 
 ## Heatmap de Disponibilidade
 
-![Heatmap de disponibilidade da equipe](../assets/images/heatmap_grupo_04.png)
+![Heatmap de disponibilidade da equipe](../assets/images/entrega1/heatmap_grupo_04.png)
 **Figura 1 – Disponibilidade semanal da equipe coletada através da ferramenta When2Meet.**
 
 Fonte: Elaborado pelos autores.
@@ -59,3 +59,4 @@ Dessa forma, os períodos mais escuros indicam **os horários mais adequados par
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1.0 | Criação do documento Heatmap | 10/04/2026 | [Pedro Lucas](https://github.com/pwdrinho)| 10/04/2026 | [Gabriel Diniz](https://github.com/GabrielDiniz12)|
 | 1.1 | Adição imagem do heatmap e referências | 10/04/2026 | [Pedro Lucas](https://github.com/pwdrinho)| 10/04/2026 | [Gabriel Diniz](https://github.com/GabrielDiniz12)|
+| 1.2 | Revisão após inspeção da entrega 1 | 11/04/2026 | [Pedro Lucas](https://github.com/pwdrinho)| 11/04/2026 | [Gabriel Diniz](https://github.com/GabrielDiniz12)|

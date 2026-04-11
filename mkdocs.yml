@@ -33,6 +33,15 @@ nav:
       - "Sites Avaliados": planejamento/sitesAvaliados.md
       - "Site Escolhido": planejamento/siteEscolhido.md
 
+  - Tabela de Atividades Desenvolvidas:
+      - "Entrega 1": tabelasAtividades/entrega1.md
+    #   - "Entrega 2": tabelasAtividades/entrega2.md
+    #   - "Entrega 3": tabelasAtividades/entrega3.md
+    #   - "Entrega 4": tabelasAtividades/entrega4.md
+    #   - "Entrega 5": tabelasAtividades/entrega5.md
+    #   - "Entrega 6": tabelasAtividades/entrega6.md
+    #   - "Entrega 7": tabelasAtividades/entrega7.md
+
   - Apresentações:
       - "Entrega 1": apresentacoes/entrega1.md
     #   - "Entrega 2": apresentacoes/entrega2.md
@@ -145,12 +154,12 @@ theme:
 markdown_extensions:
   - tables
   - attr_list
-  - md_in_html
   - pymdownx.blocks.caption
   - pymdownx.tasklist:
         custom_checkbox: true
   - pymdownx.emoji:
       emoji_index: !!python/name:pymdownx.emoji.twemoji
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - md_in_html
 
 extra_css: [stylesheets/extra.css]

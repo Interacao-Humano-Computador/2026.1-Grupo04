@@ -67,8 +67,26 @@ Escolhemos esse sistema por dois motivos principais: Notamos que ele apresenta m
 
 ---
 
+## Referências Bibliográficas
+> BRASIL. Receita Federal do Brasil. Receita Federal. Brasília, DF: RFB, . Disponível em: <https://www.gov.br/receitafederal/>. Acesso em: 8 abr. 2026.
+
+> COMPANHIA DE DESENVOLVIMENTO HABITACIONAL DO DISTRITO FEDERAL. Codhab. Brasília, DF: CODHAB, . Disponível em: <https://www.codhab.df.gov.br/>. Acesso em: 9 abr. 2026.
+
+> COMPANHIA DE SANEAMENTO AMBIENTAL DO DISTRITO FEDERAL. Caesb. Brasília, DF: CAESB, . Disponível em: <https://www.caesb.df.gov.br/>. Acesso em: 8 abr. 2026.
+
+> DISTRITO FEDERAL. Fundação Hemocentro de Brasília. Fundação Hemocentro de Brasília. Brasília, DF: FHB, . Disponível em: <https://fhb.df.gov.br/>. Acesso em: 8 abr. 2026.
+
+> DISTRITO FEDERAL. Instituto de Defesa do Consumidor. Procon-DF. Brasília, DF: PROCON-DF, . Disponível em: <https://www.procon.df.gov.br/>. Acesso em: 8 abr. 2026.
+
+> DISTRITO FEDERAL. Subsecretaria de Atendimento ao Cidadão. Na Hora. Brasília, DF: Na Hora, . Disponível em: <https://www.nahora.df.gov.br/>. Acesso em: 9 abr. 2026.
+
+> INSTITUTO NACIONAL DO SEGURO SOCIAL (Brasil). Meu INSS. Brasília, DF: INSS, . Disponível em: <https://meu.inss.gov.br/>. Acesso em: 9 abr. 2026.
+
+---
+
 ## Histórico de Versões
 
 | Versão | Descrição | Data | Autor(es) | Data de revisão | Revisor(es) |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1.0 | Criação do documento de sites avaliados | 09/04/2026 | [Pedro Ian](https://github.com/pedroiaan)| 10/04/2026 | [Pedro Lucas](https://github.com/Pwdrinho)|
+| 1.1 | Revisão após inspeção da entrega 1 | 11/04/2026 | [Pedro Ian](https://github.com/pedroiaan)| 11/04/2026 | [Pedro Lucas](https://github.com/Pwdrinho)|

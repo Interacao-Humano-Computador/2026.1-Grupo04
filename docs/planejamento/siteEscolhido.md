@@ -1,4 +1,8 @@
-**Motivação para a Escolha**
+## Introdução
+
+Esta seção demonstra o site escolhido para a realização do trabalho, possuindo os motivos e os critarios que justificaram a escolha do site.
+
+## Motivação para a Escolha
 
 A escolha do portal da Fundação Hemocentro de Brasília (e sua integração com o sistema de agendamento Agenda DF) foi motivada pela elevada relevância social do serviço oferecido (cadastro e doação de sangue/medula óssea) e pela presença de severos atritos de interação que podem levar ao abandono da tarefa. Sites [governamentais devem¹](#ref1):
 
@@ -8,7 +12,7 @@ A escolha do portal da Fundação Hemocentro de Brasília (e sua integração co
 
 Entretanto, uma [análise preliminar²](#ref1) demonstrou que o sistema atual possui falhas de comunicação com o usuário. O fluxo de interação exige que o cidadão possua um modelo mental da estrutura burocrática do Estado, forçando-o a sair do site do Hemocentro e tentar localizá-lo novamente em uma grade genérica de múltiplos órgãos no portal "Agenda DF". Somado a isso, a etapa final do agendamento exige uma autenticação abrupta por meio do portal "gov.br" ou "Participa DF", criando uma quebra na operação que não oferece ajuda preventiva. Avaliar esse sistema é uma oportunidade valiosa de aplicar a disciplina de Interação Humano-Computador para evitar que a má qualidade de uso da tecnologia atue como um obstáculo a um serviço essencial de saúde pública, melhorando a forma como a tecnologia é inserida na vida do cidadão.
 
-**Critérios de Escolha**
+## Critérios de Escolha
 
 Para fundamentar a escolha deste sistema de forma técnica e acadêmica para o trabalho, estabelecemos os seguintes critérios metodológicos:
 
@@ -25,7 +29,7 @@ Para fundamentar a escolha deste sistema de forma técnica e acadêmica para o t
 
 > [2] SÁ, Pedro Henrique Américo de. Tópico: Planejamento de avaliação e Executar uma avaliação de um site [Projeto Parte Individual Método e Avaliação]. . Trabalho acadêmico (Disciplina Interação Humano Computador) – Faculdade UnB Gama, Universidade de Brasília, Brasília, DF. Disponível em: <a href="../../assets/pdfs/avaliacao_hemocentro.pdf" target="_blank">  Avaliação do Hemocentro</a>. Acesso em: 10 abr. 2026.
 
-## Bivliografia
+## Bibliografia
 > BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. E-book.
 
 ---
@@ -35,3 +39,4 @@ Para fundamentar a escolha deste sistema de forma técnica e acadêmica para o t
 | Versão | Descrição | Data | Autor(es) | Data de revisão | Revisor(es) |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1.0 | Criação do documento, definição da motivação e critérios de escolha. | 10/04/2026 | [Gabriel Diniz](https://github.com/GabrielDiniz12)| 10/04/2026 | [Julia Gabriella](https://github.com/juliagabriellafs)|
+| 1.1 | Revisão após inspeção da entrega 1 | 11/04/2026 | [Gabriel Diniz](https://github.com/GabrielDiniz12)| 11/04/2026 | [Julia Gabriella](https://github.com/juliagabriellafs)|

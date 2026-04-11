@@ -69,3 +69,4 @@ Para viabilizar a execução do projeto de análise do portal Hemocentro sob a �
 | Versão | Descrição | Data | Autor(es) | Data de revisão | Revisor(es) |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1.0 | Criação da página de ferramentas | 10/04/2026 | [Breno Teixeira](https://github.com/Brenolteixeira)| 10/04/2026 | [Pedro Américo](https://github.com/dev-americo)|
+| 1.1 | Revisão após inspeção da entrega 1 | 11/04/2026 | [Breno Teixeira](https://github.com/Brenolteixeira)| 11/04/2026 | [Pedro Américo](https://github.com/dev-americo)|

@@ -16,7 +16,7 @@ O site do Hemocentro constitui o artefato deste estudo, no qual otimizações em
 
 ## 2. Modelo de processos de design
 
-Para sistematizar as atividades básicas do design, a literatura de Interação Humano-Computador (IHC) propõe diversos modelos de processos. Cada modelo organiza como essas atividades devem ser executadas de forma iterativa, detalhando os artefatos consumidos e produzidos em cada uma delas. Entre as abordagens consagradas na área, destacam-se:
+Para sistematizar as atividades básicas do design, a literatura de Interação Humano-Computador (IHC) propõe diversos modelos de processos que visam garantir a **qualidade do uso**. Cada modelo organiza como essas atividades devem ser executadas de forma iterativa, detalhando os artefatos consumidos e produzidos em cada uma delas. Entre as abordagens consagradas na área, destacam-se:
 
 ### 2.1 Ciclo de Vida Simples
 
@@ -37,7 +37,7 @@ Proposto por Deborah Mayhew (1999), este ciclo de vida possui uma visão holíst
 <div align="center">
   <p class="table-source"><strong>Figura 1 - Atividades do Modelo de Ciclo de Vida de Mayhew</strong></p>
   
-  <img src="../../assets/images/ciclo-mayhew.png" alt="Descrição">
+  <img src="../../assets/images/entrega1/ciclo-mayhew.png" alt="Descrição">
 
   <p class="table-source">Fonte: <a href="#ref1">BARBOSA e SILVA, 2011, p.106.¹</a> (2011).</p>
 </div>
@@ -67,11 +67,11 @@ Esta síntese articula os modelos de design em IHC e sua aplicabilidade prática
 
 ## 3. Justificativa da escolha do modelo para o Hemocentro
 
-Visto que o site do Hemocentro constitui um artefato já em operação e que o objetivo central deste estudo reside na otimização da experiência do usuário, a **Engenharia de Usabilidade de Mayhew** foi selecionada como a metodologia norteadora.
+Visto que o site do Hemocentro constitui um artefato já em operação e que o objetivo central deste estudo reside na **otimização da experiência do usuário**, a **Engenharia de Usabilidade de Mayhew** foi selecionada como a metodologia norteadora.
 
 Mayhew foi a metodologia escolhida para guiar a análise e o aprimoramento do site do Hemocentro devido à sua abordagem estruturada e ao alto nível de detalhamento de suas fases, características que reduzem a subjetividade no processo de design. Tratando-se de um sistema voltado para a saúde pública, onde falhas de comunicação ou fluxos de interface confusos podem desmotivar doadores, a adoção de um roteiro seguro e iterativo é indispensável.
 
-Além disso, por se tratar de uma plataforma que já está em produção, o modelo de Mayhew permite uma aplicação prática estratégica. O processo de avaliação pode ser iniciado a partir da perspectiva da fase de **Instalação**, que consiste em analisar o feedback e as opiniões dos usuários diante da experiência de uso do sistema atual. A partir do diagnóstico desses dados reais para identificar pontos de melhoria, o processo retrocede para a fase de **Análise de Requisitos**. Essa dinâmica viabiliza a estruturação de mudanças mais assertivas que passarão por um ciclo iterativo de refinamento e validação ao longo dos níveis de prototipação, assegurando que o aprimoramento das interfaces atenda de fato às necessidades dos doadores.
+Além disso, por se tratar de uma plataforma que já está em produção, o modelo de Mayhew permite uma aplicação prática estratégica. O processo de avaliação pode ser iniciado a partir da perspectiva da fase de **Instalação**, que consiste em analisar o feedback e as opiniões dos usuários diante da experiência de uso do sistema atual. A partir do diagnóstico desses dados reais para identificar pontos de melhoria, o processo retrocede para a fase de **Análise de Requisitos**. Essa dinâmica viabiliza a estruturação de mudanças mais assertivas que passarão por um **ciclo iterativo**, com avaliações diversas como formativas e somativas de refinamento e validação ao longo dos níveis de prototipação, assegurando que o aprimoramento das interfaces atenda de fato às necessidades dos doadores.
 
 ## 4. Referências Bibliográficas
 <a id="ref1"></a>
@@ -84,3 +84,4 @@ Além disso, por se tratar de uma plataforma que já está em produção, o mode
 | Versão | Descrição | Data | Autor(es) | Data de revisão | Revisor(es) |
 | :---: | :--- | :---: | :---: | :---: | :---: |
 | 1.0 | Criação da página de design e inserção do conteúdo | 10/04/2026 | [Julia Gabriella](https://github.com/juliagabriellafs) e [Lucas Oliveira](https://github.com/dev-LucasDpaula)| 10/04/2026 | [Pedro Ian](https://github.com/pedroiaan)|
+| 1.1 | Revisão após inspeção da entrega 1 | 11/04/2026 | [Julia Gabriella](https://github.com/juliagabriellafs) e [Lucas Oliveira](https://github.com/dev-LucasDpaula)| 11/04/2026 | [Pedro Ian](https://github.com/pedroiaan)|

@@ -154,7 +154,7 @@ Nenhuma
 
 ### 8. Histórico de Versão
 
-| Versão | Data | Descrição | Autor | Revisor | data da revisão
+| Versão | Data | Descrição | Autor | Revisor | Data da Revisão |
 | :---: | :---: | :--- | :--- | :--- | :--- |
 | 1.0 | 10/04/2026 | Ata da reunião dia 10/04/2026. | Gabriel Diniz | Pedro Henrique | 11/04/2026 |
 | 1.1 | 11/04/2026 | Atualização de horários da ata. | Gabriel Diniz | Pedro Henrique | 11/04/2026 |

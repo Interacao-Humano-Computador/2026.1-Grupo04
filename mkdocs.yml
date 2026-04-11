@@ -27,11 +27,20 @@ nav:
 
   - Planejamento:
       - "Cronograma": planejamento/cronograma.md
-      - "Sites Avaliados": planejamento/sitesAvaliados.md
-      - "Site Escolhido": planejamento/siteEscolhido.md
-      - "Processo de design": planejamento/processoDesign.md
       - "Ferramentas": planejamento/ferramentas.md
       - "Mapa de Energia": planejamento/heatmap.md
+      - "Processo de design": planejamento/processoDesign.md
+      - "Sites Avaliados": planejamento/sitesAvaliados.md
+      - "Site Escolhido": planejamento/siteEscolhido.md
+
+  - Tabela de Atividades Desenvolvidas:
+      - "Entrega 1": tabelasAtividades/entrega1.md
+    #   - "Entrega 2": tabelasAtividades/entrega2.md
+    #   - "Entrega 3": tabelasAtividades/entrega3.md
+    #   - "Entrega 4": tabelasAtividades/entrega4.md
+    #   - "Entrega 5": tabelasAtividades/entrega5.md
+    #   - "Entrega 6": tabelasAtividades/entrega6.md
+    #   - "Entrega 7": tabelasAtividades/entrega7.md
 
   - Apresentações:
       - "Entrega 1": apresentacoes/entrega1.md
@@ -44,29 +53,29 @@ nav:
 
   - Verificações:
       - "Entrega 1":
-          - "Lista de verificação": verificacoes/entrega1/avaliacao.md
-          - "Lista de verificação grupo 5": verificacoes/entrega1/avaliacao+1.md
+          - "Verificação": verificacoes/entrega1/avaliacao.md
+          - "Verificação grupo 5": verificacoes/entrega1/avaliacao+1.md
     #   - "Entrega 2":
-    #       - "Lista de verificação": verificacoes/entrega2/avaliacao.md
-    #       - "Lista de verificação grupo 5": verificacoes/entrega2/avaliacao+1.md
+    #       - "Verificação": verificacoes/entrega2/avaliacao.md
+    #       - "Verificação grupo 5": verificacoes/entrega2/avaliacao+1.md
     #   - "Entrega 3":
-    #       - "Lista de verificação": verificacoes/entrega3/avaliacao.md
-    #       - "Lista de verificação grupo 5": verificacoes/entrega3/avaliacao+1.md
+    #       - "Verificação": verificacoes/entrega3/avaliacao.md
+    #       - "Verificação grupo 5": verificacoes/entrega3/avaliacao+1.md
     #   - "Entrega 4":
-    #       - "Lista de verificação": verificacoes/entrega4/avaliacao.md
-    #       - "Lista de verificação grupo 5": verificacoes/entrega4/avaliacao+1.md
+    #       - "Verificação": verificacoes/entrega4/avaliacao.md
+    #       - "Verificação grupo 5": verificacoes/entrega4/avaliacao+1.md
     #   - "Entrega 5":
-    #       - "Lista de verificação": verificacoes/entrega5/avaliacao.md
-    #       - "Lista de verificação grupo 5": verificacoes/entrega5/avaliacao+1.md
+    #       - "Verificação": verificacoes/entrega5/avaliacao.md
+    #       - "Verificação grupo 5": verificacoes/entrega5/avaliacao+1.md
     #   - "Entrega 6":
-    #       - "Lista de verificação": verificacoes/entrega6/avaliacao.md
-    #       - "Lista de verificação grupo 5": verificacoes/entrega6/avaliacao+1.md
+    #       - "Verificação": verificacoes/entrega6/avaliacao.md
+    #       - "Verificação grupo 5": verificacoes/entrega6/avaliacao+1.md
     #   - "Entrega 7":
-    #       - "Lista de verificação": verificacoes/entrega7/avaliacao.md
-    #       - "Lista de verificação grupo 5": verificacoes/entrega7/avaliacao+1.md
+    #       - "Verificação": verificacoes/entrega7/avaliacao.md
+    #       - "Verificação grupo 5": verificacoes/entrega7/avaliacao+1.md
     #   - "Entrega 8":
-    #       - "Lista de verificação": verificacoes/entrega8/avaliacao.md
-    #       - "Lista de verificação grupo 5": verificacoes/entrega8/avaliacao+1.md
+    #       - "Verificação": verificacoes/entrega8/avaliacao.md
+    #       - "Verificação grupo 5": verificacoes/entrega8/avaliacao+1.md
 
 #   - Análise de requisitos:
 #       - "Aspectos éticos": analiseRequisitos/aspectosEticos.md
@@ -145,12 +154,12 @@ theme:
 markdown_extensions:
   - tables
   - attr_list
-  - md_in_html
   - pymdownx.blocks.caption
   - pymdownx.tasklist:
         custom_checkbox: true
   - pymdownx.emoji:
       emoji_index: !!python/name:pymdownx.emoji.twemoji
       emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - md_in_html
 
 extra_css: [stylesheets/extra.css]

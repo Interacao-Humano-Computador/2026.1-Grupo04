@@ -101,7 +101,7 @@ Nenhuma
 
 | N° | Descrição | Tipo¹ |
 | :---: | :--- | :---: |
-| 1 | Apresentação do GitHUb Pages | Apresentação |
+| 1 | Apresentação do GitHub Pages | Apresentação |
 
 </div>
 

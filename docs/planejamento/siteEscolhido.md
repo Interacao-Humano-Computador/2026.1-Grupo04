@@ -15,4 +15,4 @@ Inadequação ao Perfil do Usuário (Letramento Digital): O perfil estabelecido 
 
 | Versão | Data | Descrição | Autor | Revisor | Data de Revisão |
 | :---: | :---: | :--- | :---: | :---: | :---: |
-| 1.0 | 10/04/2026 | Criação do documento, definição da motivação e critérios de escolha. | Gabriel Diniz | [Nome do Revisor] | [Data da Revisão] |
+| 1.0 | 10/04/2026 | Criação do documento, definição da motivação e critérios de escolha. | Gabriel Diniz | Pedro Lucas | 10/04/2026 |

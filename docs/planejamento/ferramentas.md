@@ -20,10 +20,11 @@ Para viabilizar a execução do projeto de análise do portal Hemocentro sob a �
 |     ![Logo do Google Planilhas](../assets/ferramentas/gsheets.png)     |   Google Planilhas    |                 Gestão do cronograma de atividades, controle de prazos e horários.<a id="anchor_8" href="#FRM8">10</a>                 |
 |       ![Logo do Google Docs](../assets/ferramentas/gdocs.png)       |      Google Docs      |             Redação colaborativa e revisão de textos antes da transposição para o MkDocs.<a id="anchor_9" href="#FRM9">11</a>             |
 |        ![Logo do ChatGPT](../assets/ferramentas/chatgpt.png)        |        ChatGPT        |              Suporte na pesquisa de conceitos, auxílio em scripts e revisão gramatical.<a id="anchor_12" href="#FRM10">12</a>              |
-|        ![Logo do ZenHub](../assets/ferramentas/zenhub.png)        |        ZenHub         |              Extensão integrada ao GitHub para gestão ágil e atribuição de issues (tarefas).<a id="anchor_13" href="#FRM11">13</a>              |
+|        ![Logo do ZenHub](../assets/ferramentas/when2meet.png)        |        When2meet        |              Suporte na organização de horários entre o grupo.<a id="anchor_13" href="#FRM11">13</a>              |
 | ![Logo do This Person Not Exist](../assets/ferramentas/thispersonnotexist.png) | This Person Not Exist |              Geração de rostos via IA para ilustrar personas de forma ética e realista.<a id="anchor_14" href="#FRM12">14</a>              |
 |        ![Logo do Canva](../assets/ferramentas/Canva-Logo.png)         |         Canva         |                 Criação de elementos visuais para apresentações e slides de suporte.<a id="anchor_15" href="#FRM15">15</a>                 |
 |        ![Logo do Capcut](../assets/ferramentas/capcut.png)         |        Capcut         |                    Edição e finalização dos vídeos de apresentações e entregas do projeto.<a id="anchor_16" href="#FRM16">16^</a>                   |
+|        ![Logo do Gemini](../assets/ferramentas/logogemini.png)         |        Gemini         |                    Suporte na pesquisa de conceitos, auxílio em scripts e revisão gramatical.<a id="anchor_17" href="#FRM16">17^</a>                   |
 
 <p style="text-align: center; font-size: 10pt;">Fonte: <a href="https://github.com/BrenoLTeixeira">Breno Teixeira (2026)</a></p>
 
@@ -33,7 +34,7 @@ Para viabilizar a execução do projeto de análise do portal Hemocentro sob a �
 >
 > <a id="FRM2" href="#anchor_2">2.</a> TELEGRAM MESSENGER. Telegram Web. [Dubai]: Telegram, c2025. Disponível em: <a href="https://web.telegram.org/k/">https://web.telegram.org/k/</a>. Acesso em: 10 abril 2026.
 >
-> <a id="FRM3" href="#anchor_3">3.</a> MICROSOFT. Microsoft Teams. [Redmond, WA]: Microsoft, c2025. Disponível em:<a href = "https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software">https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software</a>. Acesso em: 10 abril 2026.
+> <a id="FRM3" href="#anchor_3">3.</a> Google. Google Meet. [Mountain View, CA]: Google, c2025. Disponível em:<a href = "https://meet.google.com/">https://meet.google.com/</a>. Acesso em: 10 abril 2026.
 >
 > <a id="FRM4" href="#anchor_4">4.</a> MIRO. Miro. [San Francisco, CA]: Miro, c2025. Disponível em: <a href = "https://miro.com/pt/"> https://miro.com/pt/</a>. Acesso em: 10 abril 2026.
 >
@@ -53,11 +54,12 @@ Para viabilizar a execução do projeto de análise do portal Hemocentro sob a �
 >
 > <a id="FRM12" href="#anchor_12">12.</a> OPENAI. ChatGPT. [San Francisco, CA]: OpenAI, c2025. Disponível em: <a href = "https://openai.com/index/chatgpt">https://openai.com/index/chatgpt</a>. Acesso em: 10 abril 2026.
 >
-> <a id="FRM13" href="#anchor_13">13.</a> ZENHUB. ZenHub. [Vancouver, BC]: ZenHub, c2025. Disponível em: <a href = "https://www.zenhub.com/">https://www.zenhub.com/</a>. Acesso em: 10 abril 2026.
+> <a id="FRM13" href="#anchor_13">13.</a> WHEN2MEET. When2Meet. [Vancouver, BC]: When2meet, c2025. Disponível em: <a href = "https://www.when2meet.com/">https://www.when2meet.com/</a>. Acesso em: 10 abril 2026.
 >
 > <a id="FRM14" href="#anchor_14">14.</a> THIS PERSON DOES NOT EXIST. This Person Does Not Exist. [S.l.: s.n.], [20--?]. Disponível em: <a href = "https://thispersondoesnotexist.com/">https://thispersondoesnotexist.com/</a>. Acesso em: 10 abril 2026.
 >
 > <a id="FRM15" href="#anchor_15">15.</a> CANVA. Canva. [Sydney, AU]: Canva, c2025. Disponível em: <a href="https://www.canva.com/">https://www.canva.com/</a>. Acesso em: 10 abril 2026.
+> <a id="FRM16" href="#anchor_16">16.</a> GOOGLE. Gemini. [Mountain View, CA]: Google, c2025. Disponível em: <a href="https://gemini.google.com/">https://gemini.google.com/</a>. Acesso em: 10 abril 2026.
 >
 
 ## Histórico de Versões 

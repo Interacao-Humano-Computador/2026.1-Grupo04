@@ -5,8 +5,11 @@
 Neste ambiente está disponível em vídeo a apresentação da entrega 1.
 
 <div style="text-align: center;">
-    <iframe width="100%" height="400" src="https://www.youtube.com/embed/_6wrAFCCD2Y" frameborder="0" allowfullscreen></iframe>
-    <figcaption>Fonte: <a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a> (2026).</figcaption>
+    <iframe width="100%" height="400" src="https://www.youtube.com/embed/_6wrAFCCD2Y" title="Vídeo de apresentação da entrega 1" frameborder="0" allowfullscreen></iframe>
+    <figcaption>
+        Fonte: <a href="https://github.com/BrenoLTeixeira">Breno Teixeira</a> (2026). 
+        <a href="https://www.youtube.com/watch?v=_6wrAFCCD2Y">Assistir no YouTube</a>.
+    </figcaption>
 </div>
 
 ---

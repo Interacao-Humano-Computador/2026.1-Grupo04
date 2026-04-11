@@ -51,7 +51,7 @@ Este documento apresenta o cronograma da disciplina de Interação Humano-Comput
 | Atividade | Período de Desenvolvimento | Responsáveis | Período de Revisão | Revisores |
 | :--- | :---: | :--- | :---: | :--- |
 | Características gerais da plataforma | 04/05 - 07/05 | [Gabriel Diniz](https://github.com/GabrielDiniz12) | 07/05 | [Pedro Américo](https://github.com/dev-americo) |
-| Princípios gerais do projeto (8 princípios) | 04/05 - 07/05 | [Júlia Gabriella](https://github.com/juliagabriellafs) e [Pedro Lucas](https://github.com/Pwdrinho) | 07/05 | [Breno](https://github.com/BrenoLTeixeira), [Lucas Oliveira](https://github.com/luketzz1) e [Pedro Ian](https://github.com/pedroiaan) |
+| Princípios gerais do projeto | 04/05 - 07/05 | [Júlia Gabriella](https://github.com/juliagabriellafs) e [Pedro Lucas](https://github.com/Pwdrinho) | 07/05 | [Breno](https://github.com/BrenoLTeixeira), [Lucas Oliveira](https://github.com/luketzz1) e [Pedro Ian](https://github.com/pedroiaan) |
 | Metas de Usabilidade | 04/05 - 07/05 | [Pedro Américo](https://github.com/dev-americo) | 07/05 | [Gabriel Diniz](https://github.com/GabrielDiniz12) |
 | Guia de Estilo | 04/05 - 07/05 | [Breno](https://github.com/BrenoLTeixeira), [Lucas Oliveira](https://github.com/luketzz1) e [Pedro Ian](https://github.com/pedroiaan) | 07/05 | [Júlia Gabriella](https://github.com/juliagabriellafs) e [Pedro Lucas](https://github.com/Pwdrinho) |
 | Definição da Lista de Inspeção | 08/05 | [Breno](https://github.com/BrenoLTeixeira), [Gabriel Diniz](https://github.com/GabrielDiniz12), [Júlia Gabriella](https://github.com/juliagabriellafs), [Lucas Oliveira](https://github.com/luketzz1), [Pedro Américo](https://github.com/dev-americo), [Pedro Ian](https://github.com/pedroiaan), [Pedro Lucas](https://github.com/Pwdrinho) | 08/05 | [Breno](https://github.com/BrenoLTeixeira), [Gabriel Diniz](https://github.com/GabrielDiniz12), [Júlia Gabriella](https://github.com/juliagabriellafs), [Lucas Oliveira](https://github.com/luketzz1), [Pedro Américo](https://github.com/dev-americo), [Pedro Ian](https://github.com/pedroiaan), [Pedro Lucas](https://github.com/Pwdrinho) |
@@ -146,6 +146,17 @@ Este documento apresenta o cronograma da disciplina de Interação Humano-Comput
 | Correções da Entrega após Feedback | 25/06 | [Breno](https://github.com/BrenoLTeixeira), [Gabriel Diniz](https://github.com/GabrielDiniz12), [Júlia Gabriella](https://github.com/juliagabriellafs), [Lucas Oliveira](https://github.com/luketzz1), [Pedro Américo](https://github.com/dev-americo), [Pedro Ian](https://github.com/pedroiaan), [Pedro Lucas](https://github.com/Pwdrinho) | 25/06 | [Breno](https://github.com/BrenoLTeixeira), [Gabriel Diniz](https://github.com/GabrielDiniz12), [Júlia Gabriella](https://github.com/juliagabriellafs), [Lucas Oliveira](https://github.com/luketzz1), [Pedro Américo](https://github.com/dev-americo), [Pedro Ian](https://github.com/pedroiaan), [Pedro Lucas](https://github.com/Pwdrinho) |
 
 ---
+
+# Referência Bibliográfica
+> UNIVERSIDADE DE BRASÍLIA. Campus UnB Gama. **Plano de Ensino: Interação Humano Computador**. Professor: Dr. André Barros de Sales. Semestre 01/2026. Brasília, DF: UnB, 2026. Disponível em: <https://aprender3.unb.br/pluginfile.php/3335948/mod_resource/content/61/Plano_de_Ensino%20FIHC%20012026%20Turma%2003%20v2.pdf>. Acesso em: 10 abr. 2026.
+
+
+# Bibliografia
+> CRONOGRAMA: Bilheteria Digital. [S. l.: s. n.], 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/planejamento/cronograma/#planejado_9>. Acesso em: 10 abr. 2026.
+
+> CRONOGRAMA: Cinemark. [S. l.: s. n.], 2024. Disponível em: <https://interacao-humano-computador.github.io/2024.2-Cinemark/planejamento/cronograma/#entrega-7>. Acesso em: 10 abr. 2026.
+
+>BARBOSA, Simone Diniz Junqueira et al. Interação Humano-Computador e Experiência do Usuário. 1. ed. Rio de Janeiro: Simone Diniz Junqueira Barbosa, 2021. E-book.
 
 ## Histórico de Versões
 

@@ -44,7 +44,7 @@ Gostaríamos de ressaltar que, em conformidade com as diretrizes de conduta da �
 ## Referências Bibliográficas
 > DISTRITO FEDERAL. Fundação Hemocentro de Brasília. Fundação Hemocentro de Brasília. Brasília, DF: FHB, . Disponível em: <https://fhb.df.gov.br/>. Acesso em: 8 abr. 2026.
 
-> OPENAI. ChatGPT. Versão [inserir a versão, ex: 4 ou 3.5]. São Francisco, Califórnia, 2026. Inteligência Artificial. Disponível em: https://chatgpt.com/. Acesso em: 10 abr. 2026.
+> OPENAI. ChatGPT. Versão 3.5. São Francisco, Califórnia, 2026. Inteligência Artificial. Disponível em: <https://chatgpt.com/>. Acesso em: 10 abr. 2026.
 
 ---
 

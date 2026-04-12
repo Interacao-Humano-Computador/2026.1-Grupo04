@@ -156,5 +156,5 @@ Nenhuma
 
 | Versão | Data | Descrição | Autor | Revisor | Data da Revisão |
 | :---: | :---: | :--- | :--- | :--- | :--- |
-| 1.0 | 10/04/2026 | Ata da reunião dia 10/04/2026. | Gabriel Diniz | Pedro Henrique | 11/04/2026 |
-| 1.1 | 11/04/2026 | Atualização de horários da ata. | Gabriel Diniz | Pedro Henrique | 11/04/2026 |
+| 1.0 | 10/04/2026 | Ata da reunião dia 10/04/2026. | [Gabriel Diniz](https://github.com/GabrielDiniz12) | [Pedro Américo](https://github.com/dev-americo) | 11/04/2026 |
+| 1.1 | 11/04/2026 | Atualização de horários da ata. | [Gabriel Diniz](https://github.com/GabrielDiniz12) | [Pedro Américo](https://github.com/dev-americo) | 11/04/2026 |

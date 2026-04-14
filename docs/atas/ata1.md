@@ -19,8 +19,8 @@
 | Informações Gerais | Detalhes |
 | :--- | :--- |
 | **Data:** | 10/04/2026 |
-| **Local:** | Online - Google Meet (adicionar link) |
-| **Projeto:** | Sigla do Projeto - Nome do Projeto |
+| **Local:** | Online - Google Meet (https://youtu.be/_6wrAFCCD2Y?si=ZQIacmPrD2hSd4lO) |
+| **Projeto:** | Sigla do Projeto - Hemocentro |
 | **Redator:** | Gabriel Diniz |
 
 </div>

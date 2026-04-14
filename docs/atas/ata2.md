@@ -19,7 +19,7 @@
 | Informações Gerais | Detalhes |
 | :--- | :--- |
 | **Data:** | 13/04/2026 |
-| **Local:** | Online - Google Meet (adicionar link) |
+| **Local:** | Online - Google Meet (https://youtu.be/Xd8zXHmTpFo?si=wyNaqL5QZn22Ek9W) |
 | **Projeto:** | Sigla do Projeto - Hemocentro |
 | **Redator:** | Gabriel Diniz |
 
@@ -110,7 +110,7 @@ Inspeção do Grupos + 1
 ---
 
 ### 5. Próxima Reunião
-**INSERIR DATA**
+**DATA: 16/04/2026**
 
 **OBS**: essa data pode ser alterada
 
@@ -149,4 +149,5 @@ Inspeção do Grupos + 1
 
 | Versão | Data | Descrição | Autor | Revisor | Data da Revisão |
 | :---: | :---: | :--- | :--- | :--- | :--- |
-| 1.0 | 13/04/2026 | Ata da reunião dia 13/04/2026. | [Gabriel Diniz](https://github.com/GabrielDiniz12) | [Revisor](link do git) | 13/04/2026 |
+| 1.0 | 13/04/2026 | Ata da reunião dia 13/04/2026. | [Gabriel Diniz](https://github.com/GabrielDiniz12) | [Breno Teixeira](https://github.com/BrenoLteixeira) | 13/04/2026 |
+| 1.1 | 13/04/2026 | Adição de links da ata da reunião dia 13/04/2026. | [Breno Teixeira](https://github.com/BrenoLteixeira) | [Gabriel Diniz](https://github.com/GabrielDiniz12) | 13/04/2026 |

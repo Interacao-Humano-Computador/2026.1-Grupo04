@@ -32,15 +32,16 @@ Proposto por Jakob Nielsen (1994), define um ciclo de vida baseado em dez ativid
 
 ### 2.4 Engenharia de Usabilidade de Mayhew
 
-Proposto por Deborah Mayhew (1999), este ciclo de vida possui uma visão holística e estruturada, organizando as diversas atividades de IHC em três fases principais para orientar de forma rigorosa a concepção de uma boa solução interativa:
+Proposto por Deborah Mayhew (1999) <a href="#figura1">Figura 1</a>, este ciclo de vida possui uma visão holística e estruturada, organizando as diversas atividades de IHC em três fases principais para orientar de forma rigorosa a concepção de uma boa solução interativa:
 
 <div align="center">
   <p class="table-source"><strong>Figura 1 - Atividades do Modelo de Ciclo de Vida de Mayhew</strong></p>
   
-  <img src="../../assets/images/entrega1/ciclo-mayhew.png" alt="Descrição">
+  <img src="../../assets/images/entrega1/ciclo-mayhew.png" alt="Descrição" id="figura1">
 
   <p class="table-source">Fonte: <a href="#ref1">BARBOSA e SILVA, 2011, p.106.¹</a> (2011).</p>
 </div>
+
 #### Análise de requisitos
 
 Define as metas de usabilidade com base no perfil dos usuários, na análise de tarefas, nas possibilidades e limitações da plataforma, e em princípios gerais de projeto. Essas metas são formalizadas através de guias de estilo.

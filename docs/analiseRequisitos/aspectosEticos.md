@@ -4,7 +4,7 @@
 
 Em conformidade com as diretrizes de Interação Humano-Computador, o desenvolvimento deste projeto é pautado por princípios éticos rigorosos, visando proteger a integridade e a autonomia dos participantes. Conforme destacado por Barbosa e Silva (2010) no Capítulo 7, a ética em IHC é essencial para garantir que a coleta de dados não cause danos físicos ou psicológicos e que a privacidade seja integralmente respeitada.
 
-Este documento e as atividades relacionadas foram desenvolvidos pelos integrantes [Pedro Ian](https://github.com/pedroiaan) e [Lucas Oliveira](https://github.com/luketzz1). Para este projeto, seguimos as recomendações da Resolução nº 466/2012 e da Resolução nº 510/2016 do Conselho Nacional de Saúde, além de códigos de ética profissional como os da ACM e IEEE. Nossas atividades são fundamentadas em quatro pilares:
+Este documento e as atividades relacionadas foram desenvolvidos pelos integrantes [Pedro Ian](https://github.com/pedroiaan) e [Lucas Oliveira](https://github.com/dev-LucasDpaula). Para este projeto, seguimos as recomendações da Resolução nº 466/2012 e da Resolução nº 510/2016 do Conselho Nacional de Saúde, além de códigos de ética profissional como os da ACM e IEEE. Nossas atividades são fundamentadas em quatro pilares:
 
 * **Princípio da Autonomia:** Garantimos que a participação ocorra mediante consentimento livre e esclarecido, respeitando a vontade do indivíduo de participar ou se retirar a qualquer momento.
 * **Princípio da Beneficência:** Buscamos maximizar os benefícios para a comunidade doadora de sangue e usuários do sistema, minimizando qualquer possível ônus.
@@ -16,7 +16,7 @@ Este documento e as atividades relacionadas foram desenvolvidos pelos integrante
 ## Termo de Consentimento Livre e Esclarecido (TCLE)
 
 **Título da Pesquisa:** Análise de Requisitos e Usabilidade do Site da Fundação Hemocentro de Brasília
-**Integrantes Responsáveis:** [Pedro Ian Guedes de Carvalho](https://github.com/pedroiaan) e [Lucas Oliveira](https://github.com/luketzz1)
+**Integrantes Responsáveis:** [Pedro Ian Guedes de Carvalho](https://github.com/pedroiaan) e [Lucas Oliveira](https://github.com/dev-LucasDpaula)
 **Instituição:** Universidade de Brasília - Campus Gama (UnB-FGA)
 
 ### Finalidade da Pesquisa
@@ -59,4 +59,4 @@ Declaro que li e compreendi os objetivos e meus direitos nesta pesquisa. Estou c
 
 | Versão | Descrição | Autor(es) | Data | Revisor(es) | Data de revisão |
 | :---: | :--- | :---: | :---: | :---: | :---: |
-| 1.0 | Criação do documento de Aspectos Éticos e TCLE | [Pedro Ian](https://github.com/pedroiaan) e [Lucas Oliveira](https://github.com/luketzz1) | 20/04/2026 | - | - |
+| 1.0 | Criação do documento de Aspectos Éticos e TCLE | [Pedro Ian](https://github.com/pedroiaan) e [Lucas Oliveira](https://github.com/dev-LucasDpaula) | 20/04/2026 | - | - |

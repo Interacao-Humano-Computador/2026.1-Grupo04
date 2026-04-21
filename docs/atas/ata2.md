@@ -20,8 +20,8 @@
 | :--- | :--- |
 | **Data:** | 13/04/2026 |
 | **Local:** | Online - Google Meet - [Clique para assistir](https://youtu.be/Xd8zXHmTpFo?si=wyNaqL5QZn22Ek9W) |
-| **Projeto:** | Sigla do Projeto - Hemocentro |
-| **Redator:** | Gabriel Diniz |
+| **Projeto:** | IHC - Hemocentro |
+| **Redator:** | [Gabriel Diniz](https://github.com/GabrielDiniz12) |
 
 </div>
 
@@ -49,13 +49,13 @@
 
 | Convocados | Presença | 
 | :--- | :---: | 
-| 1. Breno Lourenço | Presente |  
-| 2. Gabriel DIniz | Presente | 
-| 3. Júlia Gabriela | Presente | 
-| 4. Lucas Oliveira | Presente |
-| 5. Pedro Ian | Presente |
-| 6. Pedro Henrique | Presente |
-| 7. Pedro Lucas | Presente |
+| 1. [Breno Teixeira](https://github.com/BrenoLteixeira) | Presente |  
+| 2. [Gabriel Diniz](https://github.com/GabrielDiniz12) | Presente | 
+| 3. [Júlia Gabriella](https://github.com/juliagabriellafs) | Presente | 
+| 4. [Lucas Oliveira](https://github.com/dev-LucasDpaula) | Presente |
+| 5. [Pedro Ian](https://github.com/pedroiaan) | Presente |
+| 6. [Pedro Américo](https://github.com/dev-americo) | Presente |
+| 7. [Pedro Lucas](https://github.com/Pwdrinho) | Presente |
 
 </div>
 
@@ -139,7 +139,7 @@ Inspeção do Grupos + 1
 
 > BRASIL. Ministério da Ciência, Tecnologia, Inovações e Comunicações (MCTIC). **Modelo de Ata de Reunião**. Disponibilizado pelo professor André Barros na plataforma Aprender3. Brasília: Universidade de Brasília, 2026. Disponível em: <https://aprender3.unb.br/pluginfile.php/3379275/mod_resource/content/3/SiglaProjeto_AtaReuniao_AAAAMMDD_XX.pdf>. Acesso em: 11 abr. 2026.
 
-> * GRUPO 05. **2026.1-Grupo05**: site do projeto. GitHub Pages, 2026. Disciplina de Interação Humano-Computador, Universidade de Brasília. Orientador: André Barros. Disponível em: <https://interacao-humano-computador.github.io/2026.1-Grupo05/#/planejamento_projeto/_cronograma>. Acesso em: 13 abr. 2026, 19:30.
+> GRUPO 05. **2026.1-Grupo05**: site do projeto. GitHub Pages, 2026. Disciplina de Interação Humano-Computador, Universidade de Brasília. Orientador: André Barros. Disponível em: <https://interacao-humano-computador.github.io/2026.1-Grupo05/#/planejamento_projeto/_cronograma>. Acesso em: 13 abr. 2026, 19:30.
 
 > GRUPO 04. **2026.1-Grupo04**: site do projeto. GitHub Pages, 2026. Disponível em: <https://interacao-humano-computador.github.io/2026.1-Grupo04/>. Acesso em: 11 abr. 2026.
 
@@ -149,5 +149,5 @@ Inspeção do Grupos + 1
 
 | Versão | Data | Descrição | Autor | Revisor | Data da Revisão |
 | :---: | :---: | :--- | :--- | :--- | :--- |
-| 1.0 | 13/04/2026 | Ata da reunião dia 13/04/2026. | [Gabriel Diniz](https://github.com/GabrielDiniz12) | [Breno Teixeira](https://github.com/BrenoLteixeira) | 13/04/2026 |
-| 1.1 | 13/04/2026 | Adição de links da ata da reunião dia 13/04/2026. | [Breno Teixeira](https://github.com/BrenoLteixeira) | [Gabriel Diniz](https://github.com/GabrielDiniz12) | 13/04/2026 |
+| 1.0 | 13/04/2026 | Ata da reunião dia 13/04/2026. | [Gabriel Diniz](https://github.com/GabrielDiniz12) | 13/04/2026 | [Breno Teixeira](https://github.com/BrenoLteixeira) |
+| 1.1 | 13/04/2026 | Adição de links da ata da reunião dia 13/04/2026. | [Breno Teixeira](https://github.com/BrenoLteixeira) | 13/04/2026 | [Gabriel Diniz](https://github.com/GabrielDiniz12) |

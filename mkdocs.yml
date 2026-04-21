@@ -10,7 +10,7 @@ nav:
   - Atas:
       - "Ata reunião 1": atas/ata1.md
       - "Ata reunião 2": atas/ata2.md
-    #   - "Ata reunião 3": atas/ata3.md
+      - "Ata reunião 3": atas/ata3.md
     #   - "Ata reunião 4": atas/ata4.md
     #   - "Ata reunião 5": atas/ata5.md
     #   - "Ata reunião 6": atas/ata6.md

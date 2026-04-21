@@ -19,9 +19,9 @@
 | Informações Gerais | Detalhes |
 | :--- | :--- |
 | **Data:** | 10/04/2026 |
-| **Local:** | Online - Google Meet (https://youtu.be/_6wrAFCCD2Y?si=ZQIacmPrD2hSd4lO) |
-| **Projeto:** | Sigla do Projeto - Hemocentro |
-| **Redator:** | Gabriel Diniz |
+| **Local:** | Online - Google Meet [Clique para assistir](https://youtu.be/_6wrAFCCD2Y?si=ZQIacmPrD2hSd4lO) |
+| **Projeto:** | IHC - Hemocentro |
+| **Redator:** | [Gabriel Diniz](https://github.com/GabrielDiniz12) |
 
 </div>
 
@@ -49,13 +49,13 @@
 
 | Convocados | Presença | 
 | :--- | :---: | 
-| 1. Breno Lourenço | Presente |  
-| 2. Gabriel DIniz | Presente | 
-| 3. Júlia Gabriela | Presente | 
-| 4. Lucas Oliveira | Presente |
-| 5. Pedro Ian | Presente |
-| 6. Pedro Henrique | Presente |
-| 7. Pedro Lucas | Presente |
+| 1. [Breno Teixeira](https://github.com/BrenoLteixeira) | Presente |  
+| 2. [Gabriel Diniz](https://github.com/GabrielDiniz12) | Presente | 
+| 3. [Júlia Gabriella](https://github.com/juliagabriellafs) | Presente | 
+| 4. [Lucas Oliveira](https://github.com/dev-LucasDpaula) | Presente |
+| 5. [Pedro Ian](https://github.com/pedroiaan) | Presente |
+| 6. [Pedro Américo](https://github.com/dev-americo) | Presente |
+| 7. [Pedro Lucas](https://github.com/Pwdrinho) | Presente |
 
 </div>
 
@@ -156,5 +156,6 @@ Nenhuma
 
 | Versão | Data | Descrição | Autor | Revisor | Data da Revisão |
 | :---: | :---: | :--- | :--- | :--- | :--- |
-| 1.0 | 10/04/2026 | Ata da reunião dia 10/04/2026. | [Gabriel Diniz](https://github.com/GabrielDiniz12) | [Pedro Américo](https://github.com/dev-americo) | 11/04/2026 |
-| 1.1 | 11/04/2026 | Atualização de horários da ata. | [Gabriel Diniz](https://github.com/GabrielDiniz12) | [Pedro Américo](https://github.com/dev-americo) | 11/04/2026 |
+| 1.0 | 10/04/2026 | Ata da reunião dia 10/04/2026. | [Gabriel Diniz](https://github.com/GabrielDiniz12) | 11/04/2026 | [Pedro Américo](https://github.com/dev-americo) |
+| 1.1 | 11/04/2026 | Atualização de horários da ata. | [Gabriel Diniz](https://github.com/GabrielDiniz12) | 11/04/2026 | [Pedro Américo](https://github.com/dev-americo) |
+| 1.2 | 20/04/2026 | Atualização do link de gravação | [Pedro Américo](https://github.com/dev-americo) | 20/04/2026 | [Gabriel Diniz](https://github.com/GabrielDiniz12) |

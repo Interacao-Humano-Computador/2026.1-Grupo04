@@ -1,3 +1,7 @@
+#Referenciar uma foto
+<a href="#figura1">Figura 1</a>
+
+#Adicionar uma foto
 <div align="center">
   <p class="table-source"><strong>Figura X</strong> - Descrição</p>
   
